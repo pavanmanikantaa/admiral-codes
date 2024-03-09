@@ -1,3 +1,7 @@
+#STUDY NUMBER :ABC1123
+#AUTHOR : SAIJANARDHANSWAMI
+#DATEANDTIME : NOV012023
+
 
 
 install.packages("haven")
@@ -370,11 +374,12 @@ View(adsl3)
 
 install.packages(c("usethis", "credentials"))
 
+library(usethis)
 ## set your user name and email:
 
 
 
-usethis::use_git_config(user.name = "janardhanswami", user.email = "saijanardhanswami@mail.com")
+usethis::use_git_config(user.name = "pavanmanikantaa", user.email = "saipavanmanikanta22@mail.com")
 #### 1. Sign up at GitHub.com ################################################
 
 ## If you do not have a GitHub account, sign up here:
@@ -386,7 +391,7 @@ usethis::use_git_config(user.name = "janardhanswami", user.email = "saijanardhan
 install.packages(c("usethis", "credentials"))
 
 ## set your user name and email:
-usethis::use_git_config(user.name = "janardhanswami", user.email = "saijanardhanswami@mail.com")
+usethis::use_git_config(user.name = "pavanmanikantaa", user.email = "saipavanmanikanta22@mail.com")
 
 # ----------------------------------------------------------------------------
 
